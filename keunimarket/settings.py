@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure-2e95u0_le1d_r*+8uau%b#@2bbkje&6=zcks=5q_ytc=2t3n4s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['embuniportal.onrender.com']
 
 
 # Application definition
